@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Alvi.</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+learning...;nothing+special+here+:3!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3> 
 
