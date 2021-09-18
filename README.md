@@ -32,7 +32,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.alvigeovanny.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.alvigeovanny.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.alvigeovanny.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://alvigeovanny.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/alvigeovanny/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alvi Geovanny-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:alvigeovan29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alvigeovan29@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
