@@ -32,9 +32,18 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.alvigeovanny.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://alvigeovanny.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="alvigeovanny.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://alvigeovanny.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/alvigeovanny/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alvi Geovanny-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:alvigeovan29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alvigeovan29@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlviGeo&theme=algolia" alt="alvi"  /></p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlviGeo&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="alvi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlviGeo&show_icons=true&locale=en&theme=nightowl" alt="alvi" width="410" /></p>
+<br><br><br><br>
