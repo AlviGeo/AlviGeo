@@ -1,49 +1,32 @@
-<h2> Hey there! I'm Alvi.</h2>
-
-<h3> 👩🏻‍💻 &nbsp;About Me </h3> 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Informatics System at University International Batam.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-  ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![XAMPP](https://img.shields.io/badge/-xampp-333333?style=flat&logo=xampp)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+## Hello, I'm [Alvi](https://alvigeovanny.netlify.app/)! 👋
+<h3> 🤝🏻 &nbsp;Connect with Me</h3>
+ 
+<a href="https://linkedin.com/in/alvigeovanny">
+  <img align="left" alt="Alvi's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/alvigeo">
+  <img align="left" alt="Alvi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:alvigeovan29@gmail.com">
+  <img align="left" alt="Alvi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br/>
+<br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+**Languages and Tools:**  
 
-<p align="center">
-<a href="alvigeovanny.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://alvigeovanny.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/alvigeovanny/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alvi Geovanny-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:alvigeovan29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alvigeovan29@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>   
+<hr>
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlviGeo&theme=algolia" alt="alvi"  /></p>
 
-<hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlviGeo&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="alvi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlviGeo&show_icons=true&locale=en&theme=nightowl" alt="alvi" width="410" /></p>
 <br><br><br><br>
